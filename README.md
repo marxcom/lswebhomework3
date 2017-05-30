@@ -11,15 +11,17 @@
 
 ```
 
-My name is:
+My name is: Jonathan Domah
 
-I like to:
+I like to: Learn to code
 
-I'm learning:
+I'm learning: Web Development with LambdaSchool
 
 ```
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
+
+![Altered Donald Trump Tweet](/images/tweet1.png?raw=true "Altered Donald Trump Tweet")
 
 4. Push it up to your own repository on Github (don't try to override the original).
 
